@@ -6,7 +6,7 @@ This repository provides the source codes of the “SurveyImage (SImage)” tool
 
 In this repository, we provide a generic solution of SImage (see Figures below). When using SImage for your own purposes, you may include a logo and a survey question in the [Upload_Gallery.html](/SImage/Upload_Gallery.html) or [Upload_Camera.html](/SImage/Upload_Camera.html) files. Adaptations to the image uploading instruction (e.g., how to take and/or upload an image), need to be implemented in the [uploadForm_Gallery.js](/SImage/uploadForm_Gallery.js) or [uploadForm_Camera.js](/SImage/uploadForm_Camera.js) files.
 
-<p float="left">
+<p float="center">
     <img src="/img/Image_SImage_Camera.jpg" width="35%" />
     <img src="/img/Image_SImage_Gallery.jpg" width="35%" />
 </p>
