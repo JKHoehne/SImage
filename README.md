@@ -8,10 +8,10 @@ In this repository, we provide a generic solution of SImage (see Figures below).
 
 <div class="row">
   <div class="column">
-    <img src="/img/Image_SImage_Camera.jpg" "width:35%">
+    <img src="/img/Image_SImage_Camera.jpg" "width:25%">
   </div>
   <div class="column">
-    <img src="/img/Image_SImage_Gallery.jpg" "width:35%">
+    <img src="/img/Image_SImage_Gallery.jpg" "width:25%">
   </div>
 </div>
 
