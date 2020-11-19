@@ -25,4 +25,4 @@ Although the authors tested the application of SImage, they wish to state clearl
 
 # SImage citation
 
-Höhne, J. K., Qureshi, D. D., & Gavras, K., (2020). SurveyImage (SImage): A comprehensive guide for collecting images in surveys. Zenodo. DOI: …
+Höhne, J. K., Qureshi, D. D., & Gavras, K., (2020). SurveyImage (SImage): A comprehensive guide for collecting images in surveys. Zenodo. DOI: 10.5281/zenodo.4280543
