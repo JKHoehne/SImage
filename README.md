@@ -21,6 +21,8 @@ The use of program languages, such as JavaScript and PHP, enables researchers to
 
 # SImage disclaimer
 
-Although the authors tested the application of SImage, they wish to state clearly here that the use of all program codes is completely the user’s own responsibility. There is no warranty of any kind that the codes work properly and users are encouraged to test their functionality before utilization. The authors cannot be held responsible for any malfunctions and/or damages, even if SImage is the responsible source.
+Although the authors tested the application of SImage, they wish to state clearly here that the use of all program codes is completely the user’s own responsibility. There is no warranty of any kind that the codes work properly and users are encouraged to test their functionality before utilization. The authors and/or their affiliations cannot be held responsible for any malfunctions and/or damages, even if SImage is the responsible source.
 
-Citation: Höhne, J. K., Qureshi, D. D., & Gavras, K., (2020). SurveyImage (SImage): A comprehensive guide for collecting images in surveys. Zenodo. DOI: …
+# SImage Citation
+
+Höhne, J. K., Qureshi, D. D., & Gavras, K., (2020). SurveyImage (SImage): A comprehensive guide for collecting images in surveys. Zenodo. DOI: …
